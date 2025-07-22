@@ -12,8 +12,9 @@ h2 {
 a { 
     font-size: 30px;
     border: solid black;
-    color: blue;
+    color: rgb(254, 254, 254);
     font-family: Arial;
+    background-color: midnightblue;
 }
 img { 
     position: relative;
