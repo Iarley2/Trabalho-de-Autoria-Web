@@ -15,5 +15,10 @@ a {
     color: blue;
     font-family: Arial;
 }
+img { 
+    position: relative;
+    top: 200px;
+}
+    
     
     
