@@ -11,4 +11,15 @@ body {
 tr {
     background-color: rgb(174, 215, 247);
 }
-
+table {
+    background-color: midnightblue;
+}
+th {
+    color: midnightblue;
+}
+img {
+    width: 800px;
+    height: 350px;
+    position: relative;
+    left: 400px;
+}
