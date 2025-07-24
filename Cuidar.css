@@ -1,6 +1,7 @@
 h1 {
    color: midnightblue;
    font-size: 40px;
+   text-align: center;
 }
 body {
     background-color: rgb(167, 217, 235);
@@ -10,5 +11,9 @@ p {
 }
 ol {
     font-size: 30px;
+    border: 1px solid rgb(167, 217, 235) ;
+    background-color: midnightblue;
+    color: rgb(167, 217, 235);
+    text-align: center;
 }
 
