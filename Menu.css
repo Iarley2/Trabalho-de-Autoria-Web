@@ -17,13 +17,16 @@ a {
     background-color: midnightblue;
 }
 img { 
-    position:initial;
-    width: 1600px;
-    height: 700px;
+    width: 800px;
+    height: 350spx;
+    position: relative;
+    left: 370px;
+    border: 30px solid midnightblue;
 }
 body {
-    background-color:rgb(207, 235, 245);
+    background-color:rgb(167, 217, 235);
 }
+
     
     
     
