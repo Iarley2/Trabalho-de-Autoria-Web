@@ -9,5 +9,10 @@ body {
 p {
   font-size: 30px;
 }
-
+video {
+  width: 600px;
+  border: 30px solid midnightblue;
+  position: relative;
+  left: 370px;
+  }
 
